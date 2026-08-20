@@ -1,0 +1,6 @@
+{
+  "name": "HabitHarbor",
+  "enabled": true,
+  "verbose": false,
+  "output_dir": "./out"
+}
